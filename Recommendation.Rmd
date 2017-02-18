@@ -9,7 +9,8 @@ output: html_document
 
 ```{r message=FALSE, warning=FALSE}
 library(recommenderlab)
-
+library(dplyr)
+library(lavaan)
 ```
 =(
 =(((((((((((((((

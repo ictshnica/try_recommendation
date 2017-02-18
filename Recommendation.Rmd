@@ -9,7 +9,9 @@ output: html_document
 
 ```{r message=FALSE, warning=FALSE}
 library(recommenderlab)
+
 ```
+=(
 
 Построим систему, которая будет рекомендовать фильмы на основе базы оценок. В качестве исходных данных используем датасет MovieLense
 
